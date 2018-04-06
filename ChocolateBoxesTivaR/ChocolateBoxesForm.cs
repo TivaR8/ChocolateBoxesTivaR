@@ -20,13 +20,46 @@ namespace ChocolateBoxesTivaR
 {
     public partial class frmChocolateBoxes : Form
     {
+        // Variables and constants
+        const int BIGPRIZE = 20;
+        const int MENTION = 10;
         public frmChocolateBoxes()
         {
             InitializeComponent();
+
+            // To hide the text that displays the size of the prize
+            lblSizeOfPrize.Hide();
         }
 
         private void lblGetPrize_Click(object sender, EventArgs e)
         {
+            // Variables
+            int soldBoxes;
+
+            // To get the number from the text box
+            soldBoxes = int.Parse(txtBoxesSold.Text);
+
+            if (soldBoxes > BIGPRIZE)
+            {
+                // To show the size of the prize and tell the user
+                lblSizeOfPrize.Show();
+                lblSizeOfPrize.Text = ("You got a Prize!");
+            }
+            else
+            {
+                if (soldBoxes < MENTION + 1)
+                {
+                    // To show the size of the prize and tell the user
+                    lblSizeOfPrize.Show();
+                    lblSizeOfPrize.Text = ("You got an honorable mention");
+                }
+                else
+                {
+                    // To show the size of the prize and tell the user
+                    lblSizeOfPrize.Show();
+                    lblSizeOfPrize.Text = ("You got a small prize.");
+                }
+            }
 
         }
     }

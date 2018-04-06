@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\bin\Debug\ChocolateBoxesTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\bin\Debug\ChocolateBoxesTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\bin\Debug\ChocolateBoxesTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\obj\Debug\ChocolateBoxesTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\obj\Debug\ChocolateBoxesTivaR.frmChocolateBoxes.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\obj\Debug\ChocolateBoxesTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\obj\Debug\ChocolateBoxesTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\obj\Debug\ChocolateBoxesTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\ChocolateBoxesTivaR\ChocolateBoxesTivaR\obj\Debug\ChocolateBoxesTivaR.pdb
